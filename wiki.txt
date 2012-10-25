@@ -1,2 +1,2 @@
 Line 1 updated with user1
-Line 2 super uUSER 2
+Line 2 super USER 1 and 2
