@@ -1,6 +1,3 @@
 detest_v004
 ===========
-
-detest_v004
-New line
-Cool
+Line 1, U1, #5001
