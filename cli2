@@ -1,0 +1,10 @@
+#!/bin/sh
+# cmd-line helper
+
+for thing in "$@"
+do
+    echo arg: ${thing}
+done
+
+
+arg_prg.sh "$@"

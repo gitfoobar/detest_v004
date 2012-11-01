@@ -1,0 +1,12 @@
+#!/bin/sh
+# cmd-line helper
+
+#!/bin/sh
+
+for thing in "$@"
+do
+    echo arg: ${thing}
+done
+
+
+jruby cli.rb "$@"
